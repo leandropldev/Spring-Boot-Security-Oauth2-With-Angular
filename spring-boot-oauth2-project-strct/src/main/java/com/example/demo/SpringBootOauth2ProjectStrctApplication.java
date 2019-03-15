@@ -9,5 +9,4 @@ public class SpringBootOauth2ProjectStrctApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootOauth2ProjectStrctApplication.class, args);
 	}
-
 }
